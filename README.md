@@ -77,6 +77,9 @@ The dataset includes details of 103,904 airline passengers, with features like:
 - **Clustering:** K-Means and DBSCAN were used to uncover clusters based on customer demographics and service ratings, although clustering accuracy was moderate.
 - **Performance Metrics:** Each model’s performance is evaluated using accuracy, ROC-AUC, and training time.
 
+## Documentation
+For detailed methodology, results, and analysis, see the [IEEE Report](docs/report.pdf).
+
 ## Contributing
 We welcome contributions! Please see `CONTRIBUTING.md` for guidelines.
 
