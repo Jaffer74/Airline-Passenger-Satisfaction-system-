@@ -82,7 +82,3 @@ We welcome contributions! Please see `CONTRIBUTING.md` for guidelines.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you want any other changes or if there’s anything else I can add to the README!
