@@ -78,7 +78,7 @@ The dataset includes details of 103,904 airline passengers, with features like:
 - **Performance Metrics:** Each model’s performance is evaluated using accuracy, ROC-AUC, and training time.
 
 ## Documentation
-For detailed methodology, results, and analysis, see the [IEEE Report](docs/report.pdf).
+For detailed methodology, results, and analysis, see the [IEEE Report](report.pdf).
 
 ## Contributing
 We welcome contributions! Please see `CONTRIBUTING.md` for guidelines.
