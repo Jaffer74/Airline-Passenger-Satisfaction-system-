@@ -10,8 +10,7 @@ A machine learning project aimed at enhancing the airline passenger experience b
 5. [Installation](#installation)
 6. [Usage](#usage)
 7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
+8. [License](#license)
 
 ## Project Overview
 Airline customer satisfaction is vital for competitive performance and customer loyalty in the airline industry. This project analyzes airline passenger data using machine learning techniques to understand factors impacting passenger satisfaction and classify satisfaction levels. It uses a combination of supervised models like Logistic Regression, Naive Bayes, Decision Trees, and Random Forest, as well as unsupervised methods like K-Means and DBSCAN for clustering.
@@ -80,8 +79,5 @@ The dataset includes details of 103,904 airline passengers, with features like:
 ## Documentation
 For detailed methodology, results, and analysis, see the [IEEE Report](report.pdf).
 
-## Contributing
-We welcome contributions! Please see `CONTRIBUTING.md` for guidelines.
-
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
